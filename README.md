@@ -1,2 +1,2 @@
-# DSA_Practise
+# DSA_Practice
 Beginner
